@@ -1,0 +1,25 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev src",
+    "build": "vitepress build src",
+    "preview": "vitepress preview src"
+  },
+  "keywords": [
+    "docs",
+    "zh_CN"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.5.0",
+    "vue": "^3.5.12"
+  },
+  "volta": {
+    "node": "22.11.0",
+    "pnpm": "9.12.3"
+  }
+}
